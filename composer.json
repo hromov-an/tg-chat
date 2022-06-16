@@ -1,0 +1,12 @@
+{
+    "name": "anton/tg",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anton\\Tg\\": "src/"
+        }
+    }
+}

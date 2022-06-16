@@ -1,0 +1,4 @@
+vendor
+src/mydb.sqlite
+composer.lock
+.idea
